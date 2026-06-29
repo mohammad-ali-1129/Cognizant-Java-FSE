@@ -1,0 +1,46 @@
+PS C:\Users\Asus\OneDrive\Desktop\Cognizant Java FSE\Week1> javac EngineeringConcepts\SortingCustomerOrders\*.java
+PS C:\Users\Asus\OneDrive\Desktop\Cognizant Java FSE\Week1> java EngineeringConcepts.SortingCustomerOrders.Main
+Bubble Sort
+Order ID : 104
+Customer Name : John
+Total Price : 1200.0
+----------------------
+Order ID : 102
+Customer Name : Ahmed
+Total Price : 2200.0
+----------------------
+Order ID : 101
+Customer Name : Ali
+Total Price : 4500.0
+----------------------
+Order ID : 105
+Customer Name : Ayesha
+Total Price : 5000.0
+----------------------
+Order ID : 103
+Customer Name : Sara
+Total Price : 8000.0
+----------------------
+
+Quick Sort
+Order ID : 104
+Customer Name : John
+Total Price : 1200.0
+----------------------
+Order ID : 102
+Customer Name : Ahmed
+Total Price : 2200.0
+----------------------
+Order ID : 101
+Customer Name : Ali
+Total Price : 4500.0
+----------------------
+Order ID : 105
+Customer Name : Ayesha
+Total Price : 5000.0
+----------------------
+Order ID : 103
+Customer Name : Sara
+Total Price : 8000.0
+----------------------
+PS C:\Users\Asus\OneDrive\Desktop\Cognizant Java FSE\Week1> 
