@@ -1,0 +1,36 @@
+PS C:\Users\Asus\OneDrive\Desktop\Cognizant Java FSE\Week1> javac EngineeringConcepts\InventoryManagement\*.java
+PS C:\Users\Asus\OneDrive\Desktop\Cognizant Java FSE\Week1> java EngineeringConcepts.InventoryManagement.Main
+Product Added Successfully.
+Product Added Successfully.
+Product Added Successfully.
+
+Inventory:
+Product ID : 101
+Product Name : Laptop
+Quantity : 15
+Price : 65000.0
+----------------------
+Product ID : 102
+Product Name : Keyboard
+Quantity : 30
+Price : 1200.0
+----------------------
+Product ID : 103
+Product Name : Mouse
+Quantity : 50
+Price : 700.0
+----------------------
+Product Updated Successfully.
+Product Deleted Successfully.
+
+Updated Inventory:
+Product ID : 101
+Product Name : Laptop
+Quantity : 15
+Price : 65000.0
+----------------------
+Product ID : 102
+Product Name : Mechanical Keyboard
+Quantity : 25
+Price : 2200.0
+----------------------
