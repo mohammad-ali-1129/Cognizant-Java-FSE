@@ -1,0 +1,26 @@
+package EngineeringConcepts.FinancialForecasting;
+
+public class FinancialData {
+
+    private double currentValue;
+    private double growthRate;
+    private int years;
+
+    public FinancialData(double currentValue, double growthRate, int years) {
+        this.currentValue = currentValue;
+        this.growthRate = growthRate;
+        this.years = years;
+    }
+
+    public double getCurrentValue() {
+        return currentValue;
+    }
+
+    public double getGrowthRate() {
+        return growthRate;
+    }
+
+    public int getYears() {
+        return years;
+    }
+}
