@@ -21,3 +21,6 @@ public class ObserverTest {
         stockMarket.setStockPrice(1250.75);
     }
 }
+
+
+
