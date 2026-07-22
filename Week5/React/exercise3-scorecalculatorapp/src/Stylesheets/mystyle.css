@@ -1,0 +1,16 @@
+.container {
+  width: 400px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+}
